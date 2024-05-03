@@ -1,7 +1,7 @@
 # 2024_Eclipse_TimeLapse
 Super fast and lazy workflow for converting my DwarfII Timelapse into a shorter and more centered video
 
-https://github.com/BridgeCityRobotics/2024_Eclipse_TimeLapse/blob/main/20240408_Partial_Eclipse.mp4
+https://github.com/BridgeCityRobotics/2024_Eclipse_TimeLapse/assets/9502224/d9990178-29fc-4851-a105-f711e026ab36
 
 ### Workflow:
 1. h264_to_Frames.py
