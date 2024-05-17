@@ -13,5 +13,5 @@ Super fast and lazy workflow for converting my DwarfII Timelapse into a shorter 
 ### To Do:
 * One script obviously
 * Automatic removal of black and unusable frames
-* Better centering - instead of largest circle finding use cirle with color threshold
+* Better centering - instead of largest circle, find use circle with color threshold
 * File clean up
